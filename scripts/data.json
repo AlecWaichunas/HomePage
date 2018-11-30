@@ -1,0 +1,23 @@
+{
+    "background": "images/Lake.png",
+    "primarycolor": "blue",
+    "secondarycolor": "lightblue",
+
+    "apps": {
+        "facebook": {
+            "img": "images/facebook.png",
+            "searchurl": "www.facebook.com/search?",
+            "quicklinks": {
+                "home": "facebook.com"
+            }
+        },
+        "reddit": {
+            "img": "images/facebook.png",
+            "searchurl": "www.facebook.com/search?",
+            "quicklinks": {
+                "home": "mylink.com"
+            }
+        }
+    }
+
+}
